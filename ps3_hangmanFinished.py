@@ -14,7 +14,7 @@ WORDLIST_FILENAME = "words.txt"
 
 def loadWords():
     """
-    Returns a list of valid words. Words are strings of lowercase letters.
+    Returns a list of valid words. Words are strings of lowercase letters...
     
     Depending on the size of the word list, this function may
     take a while to finish.
